@@ -1,0 +1,26 @@
+{
+  "name": "2bit-creative",
+  "version": "1.0.0",
+  "description": "Site for the 2Bit Creative company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Ratliff",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-file-include": "^1.2.0",
+    "gulp-html-partial": "^1.0.1",
+    "gulp-inject-partials": "^1.0.4",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "include": "^1.1.0"
+  },
+  "dependencies": {
+    "gulp-cli": "^1.4.0",
+    "gulp-install": "^1.1.0"
+  }
+}
